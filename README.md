@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Gospel33/NFT-PREVIEW-CARD.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://playful-tartufo-fb266f.netlify.app
 
 ## My process
 Define your process here
