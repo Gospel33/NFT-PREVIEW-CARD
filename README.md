@@ -28,8 +28,7 @@ Define your process here
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
+
 
 
 ### What I learned
